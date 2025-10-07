@@ -1,2 +1,3 @@
 # my_api
-API взаимодействие с моделью
+ML model -> API.
+Employee turnover prediction using Stress Level and Job Satisfaction data.
